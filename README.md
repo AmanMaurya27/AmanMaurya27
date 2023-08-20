@@ -1,6 +1,6 @@
 <!--### Hi there 👋 It's Aman
 
- - 💻 Programming Language: C,C++
+ - 💻 Programming Language: C, C++, Java
  - 📫 How to reach me: https://www.linkedin.com/in/aman-maurya-a26a721b2
 <!--
 **AmanMaurya27/AmanMaurya27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AmanMaurya27.AmanMaurya27">
 <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150" align="right"/>
 
-- 🔭 I’m Final year student at G.L , Bajaj Institute Of Technology and Management.
-- 💻 Programming Language: C , C++
-- 🌱 I’m currently Exploring Web Developement
+- 🔭 I’m Software Engineer at Pentair Water.
+- 💻 Programming Language: C , C++, Java
+- 🌱 I’m currently Exploring IOT
 - 📫 How to reach me: Ping me At [linkedIn](https://www.linkedin.com/in/aman-maurya-a26a721b2)
 <br />
 <br />
