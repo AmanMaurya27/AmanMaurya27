@@ -36,7 +36,7 @@ Here are some ideas to get you started: -->
 <br />
 
 ---
-<h3>🔦 Developement</h3> 
+<h3>🔦 Development</h3> 
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" height="40"  style="vertical-align:top; margin:6px"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="40" style="vertical-align:top; margin:6px">
