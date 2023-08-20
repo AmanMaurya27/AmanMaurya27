@@ -30,6 +30,8 @@ Here are some ideas to get you started: -->
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:6px"/>
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C"  height="40" style="vertical-align:top; margin:6px"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fjava-vector-logo-1028.html&psig=AOvVaw2K3a8frvyWBQlS8w1iVu8V&ust=1692652797899000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCyyJiV7IADFQAAAAAdAAAAABAE" title ="Java"
+  height="40" style="vertical-align:top; margin:6px"/>
 <br />
 <br />
 
