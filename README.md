@@ -13,8 +13,8 @@ Here are some ideas to get you started: -->
 <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150" align="right"/>
 
 - 🔭 I’m Software Engineer at Pentair Water.
-- 💻 Programming Language: C , C++, Java
-- 🌱 I’m currently Exploring IOT
+- 💻 Programming Language: C , C++, Java, JavaScript
+- 🌱 I’m currently Exploring IOT Domain.
 - 📫 How to reach me: Ping me At [linkedIn](https://www.linkedin.com/in/aman-maurya-a26a721b2)
 <br />
 <br />
